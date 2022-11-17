@@ -11,6 +11,7 @@ WHERE date='2020-04-25'`
 
 > ### 2 - Crie uma consulta para responder à pergunta: "Quantos estados nos EUA tiveram mais de 250 mortes em April 25, 2020 ?"
 ```sql
+`
 SELECT COUNT(*) AS count_of_states
 FROM (
     SELECT 
@@ -20,7 +21,7 @@ FROM (
     WHERE country_name="United States of America" AND date='2020-04-25' AND subregion1_name IS NOT NULL
     GROUP BY subregion1_name
 )
-WHERE death_count > 250
+WHERE death_count > 250`
 ```
 <br>
 
