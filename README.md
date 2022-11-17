@@ -86,6 +86,7 @@ WHERE net_new_cases=0
 `
 ```
 <br>
+
 > ### 7 - Com base na consulta anterior, crie uma consulta para descobrir as datas em que os casos confirmados aumentaram mais de 20 % em comparação ao dia anterior (indicando a taxa de duplicação de aproximadamente sete dias) nos EUA entre 22 de março e 20 de abril de 2020.
 
 
