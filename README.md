@@ -117,6 +117,7 @@ SELECT
 FROM us_previous_day_comparison
 WHERE percentage_increase > 20`
 ```
+<br>
 
 > ### 8 - Crie uma consulta para listar as taxas de recuperação dos países em ordem decrescente ( 20 no máximo) até 10 de maio de 2020.
 ```sql
