@@ -1,4 +1,7 @@
 # Google-Insights-from-Data-with-BigQuery
+
+# BADGE - Google Cloud
+
 <br>
 
 > ### 1 - Crie uma consulta para responder à pergunta: "Qual foi o total de casos confirmados em April 25, 2020 ?".
